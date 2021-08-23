@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on exams
+<!-- - 🔭 I’m currently working on exams -->
 - 📫 How to reach me: check [my site](https://nihaal.dev)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: You probably can't name the 7 continents accurately

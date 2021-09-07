@@ -5,8 +5,12 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: You probably can't name the 7 continents accurately
 
-![](https://github-readme-stats.vercel.app/api?username=nihaals&show_icons=true&include_all_commits=true&count_private=true&hide=stars&custom_title=GitHub+Stats&theme=vue-dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nihaals&langs_count=6&layout=compact&theme=vue-dark)
+<a href="https://github.com/nihaals">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nihaals&show_icons=true&include_all_commits=true&count_private=true&hide=stars&custom_title=GitHub+Stats&theme=vue-dark" />
+</a>
+<a href="https://github.com/nihaals?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihaals&langs_count=8&layout=compact&theme=vue-dark" />
+</a>
 
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->

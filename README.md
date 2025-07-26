@@ -11,11 +11,6 @@
 <a href="https://github.com/nihaals?tab=repositories">
   <img align="center" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihaals&langs_count=8&layout=compact&theme=vue-dark" />
 </a>
-<!--<a href="https://github.com/nihaals">
-  <img align="center" alt="Trophies" src="https://github-profile-trophy.vercel.app?username=nihaals" />
-</a>-->
-
-[![Trophies](https://github-profile-trophy.vercel.app?username=nihaals)](https://github.com/nihaals)
 
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
